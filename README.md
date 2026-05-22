@@ -1,6 +1,7 @@
 # Xiaojun Wang
 
 AI Testing & AI Quality Engineering
+Focused on engineering-oriented approaches for AI system quality, evaluation, and reliability.
 
 Focused on:
 
@@ -32,5 +33,7 @@ Building engineering-oriented practices for:
 - AI Education
 
 ## Website
+
+Personal homepage and research notes:
 
 https://testailabs.cc
