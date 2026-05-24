@@ -32,6 +32,11 @@ Building engineering-oriented practices for:
 - AI Quality Engineering
 - AI Education
 
+## Public Engineering Examples
+
+- [AI Evaluation Examples](https://github.com/wanghawk88888-Qilin/ai-evaluation-examples)  
+  Engineering examples for AI evaluation, LLM testing, and AI quality workflow design.
+
 ## Website
 
 Personal homepage and research notes:
